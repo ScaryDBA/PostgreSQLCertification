@@ -1,0 +1,1 @@
+In preparing for the Open Alliance for PostgreSQL Education (OAPE) first certification, I worked with Claude to generate a series of practice tests. It then scored me and generated a study guide based on those scores.
